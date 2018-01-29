@@ -1,0 +1,10 @@
+This blog project mainly focusses  on creating a perticular platform for a single user.
+In this project the user should be the super user in order to create or manioulate any of the posts of the blog.
+To create a super user:
+in project directory write following command:
+>>>python managepy createsuperuser
+
+then after filling up credentials you can run the server by:
+>>>python manage.py runserver
+
+Now go to the localhost server and enjoy!!!
